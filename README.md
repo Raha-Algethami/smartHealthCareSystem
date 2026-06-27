@@ -1,6 +1,6 @@
 #  Smart Health Platform – Vision 2030
 
-A healthcare management system developed in **Java** using **Object-Oriented Programming (OOP)** principles, accompanied by a responsive website built with **HTML**. The project is inspired by **Saudi health apps** and demonstrates how software can support digital healthcare services.
+A healthcare management system developed in **Java** using **Object-Oriented Programming (OOP)** principles. The project is inspired by **Saudi health apps** and demonstrates how software can support digital healthcare services.
 
 ##  Project description
 
@@ -24,8 +24,6 @@ This System was done as part of my Computer Engineering projects to strengthen m
 ### Programming Language
 - Java
 
-### Web Technologies
-- HTML5
 
 ### Development Tools
 - Visual Studio Code
