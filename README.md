@@ -2,11 +2,6 @@
 
 A healthcare management system developed in **Java** using **Object-Oriented Programming (OOP)** principles, accompanied by a responsive website built with **HTML**. The project is inspired by **Saudi health apps** and demonstrates how software can support digital healthcare services.
 
-## 🌐 Live Demo
-
-🔗 **Website:**  
-**https://raha-algethami.github.io/smartHealthCareSystem/**
-
 ##  Project description
 
 This System was done as part of my Computer Engineering projects to strengthen my understanding of Java programming and object-oriented programming.
