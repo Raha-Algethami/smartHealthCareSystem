@@ -29,7 +29,6 @@ This System was done as part of my Computer Engineering projects to strengthen m
 - Visual Studio Code
 - Git
 - GitHub
-- GitHub Pages
 
 ---
 
@@ -80,11 +79,8 @@ Through this project I practiced:
 
 - Java programming
 - Object-Oriented Programming (OOP)
-- Software design
 - Class relationships
 - Git & GitHub
-- GitHub Pages deployment
-- Basic web development
 
 ---
 
