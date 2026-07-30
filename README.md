@@ -90,4 +90,4 @@ Through this project I practiced:
 
 Computer Engineering Student  
 Taif University  
-Saudi Arabia 🇸🇦
+Saudi Arabia
